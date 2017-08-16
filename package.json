@@ -7,9 +7,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetoftheweb/progressive.git"
+    "url": "https://github.com/Andrevw2812/andrevanwyk.git"
   },
-  "author": "Ray Villalobos",
+  "author": "Andre van Wyk",
   "devDependencies": {
     "browserify": "^13.1.0",
     "gulp": "^3.8.8",

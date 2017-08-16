@@ -193,79 +193,79 @@ header .inbody .navbar-brand span.subhead {
   margin-bottom: 20px;
 }
 
-#adoption .col-xs-1, #adoption .col-sm-1, #adoption .col-md-1, #adoption .col-lg-1, #adoption .col-xs-2, #adoption .col-sm-2, #adoption .col-md-2, #adoption .col-lg-2, #adoption .col-xs-3, #adoption .col-sm-3, #adoption .col-md-3, #adoption .col-lg-3, #adoption .col-xs-4, #adoption .col-sm-4, #adoption .col-md-4, #adoption .col-lg-4, #adoption .col-xs-5, #adoption .col-sm-5, #adoption .col-md-5, #adoption .col-lg-5, #adoption .col-xs-6, #adoption .col-sm-6, #adoption .col-md-6, #adoption .col-lg-6, #adoption .col-xs-7, #adoption .col-sm-7, #adoption .col-md-7, #adoption .col-lg-7, #adoption .col-xs-8, #adoption .col-sm-8, #adoption .col-md-8, #adoption .col-lg-8, #adoption .col-xs-9, #adoption .col-sm-9, #adoption .col-md-9, #adoption .col-lg-9, #adoption .col-xs-10, #adoption .col-sm-10, #adoption .col-md-10, #adoption .col-lg-10, #adoption .col-xs-11, #adoption .col-sm-11, #adoption .col-md-11, #adoption .col-lg-11, #adoption .col-xs-12, #adoption .col-sm-12, #adoption .col-md-12, #adoption .col-lg-12 {
+#services .col-xs-1, #services .col-sm-1, #services .col-md-1, #services .col-lg-1, #services .col-xs-2, #services .col-sm-2, #services .col-md-2, #services .col-lg-2, #services .col-xs-3, #services .col-sm-3, #services .col-md-3, #services .col-lg-3, #services .col-xs-4, #services .col-sm-4, #services .col-md-4, #services .col-lg-4, #services .col-xs-5, #services .col-sm-5, #services .col-md-5, #services .col-lg-5, #services .col-xs-6, #services .col-sm-6, #services .col-md-6, #services .col-lg-6, #services .col-xs-7, #services .col-sm-7, #services .col-md-7, #services .col-lg-7, #services .col-xs-8, #services .col-sm-8, #services .col-md-8, #services .col-lg-8, #services .col-xs-9, #services .col-sm-9, #services .col-md-9, #services .col-lg-9, #services .col-xs-10, #services .col-sm-10, #services .col-md-10, #services .col-lg-10, #services .col-xs-11, #services .col-sm-11, #services .col-md-11, #services .col-lg-11, #services .col-xs-12, #services .col-sm-12, #services .col-md-12, #services .col-lg-12 {
     padding-right: 5px;
     padding-left: 5px;
 }
 
-#adoption {
+#services {
   background-color: #8AC8E1;
 }
 
-#adoption .page-headline {
+#services .page-headline {
   color: hsl(202, 45%, 37%);
 }
 
-#adoption img {
+#services img {
   width: 100%;
   margin-bottom: 10px;
   cursor: pointer;
 }
 
-#appointments {
+#ramblings {
   line-height:100%;
   background: hsl(38, 24%, 87%);
 }
 
-#appointments .page-headline {
+#ramblings .page-headline {
   color: hsl(10, 79%, 38%);
 }
 
-#appointments .appointment {
+#ramblings .appointment {
   border-bottom: 1px solid hsl(38, 24%, 67%);
   cursor: pointer;
   margin-top: 0;
   padding: 15px 0 15px 15px;
 }
 
-#appointments .appointment:hover {
+#ramblings .appointment:hover {
   background: hsl(38, 24%, 77%);
 }
 
-#appointments .appointment-img {
+#ramblings .appointment-img {
   width: 100px;
 }
 
-#appointments .appointment-heading {
+#ramblings .appointment-heading {
   font-size: 1.6em;
   color: hsl(10, 79%, 28%);
 }
 
-#appointments .appointment-breed {
+#ramblings .appointment-breed {
   color: hsla(10, 100%, 28%,.7);
   font-size: .6em;
   font-weight: 600;
 }
 
-#appointments .appointment-owner-title {
+#ramblings .appointment-owner-title {
   font-weight: 600;
   color: rgba(0,0,0,.6);
 }
 
-#appointments .appointment-owner-name {
+#ramblings .appointment-owner-name {
   font-weight: 300;
   color: rgba(0,0,0,.5);
   font-size: .95em;
   font-style: italic;
 }
 
-#appointments .appointment-reason {
+#ramblings .appointment-reason {
   margin-top: 5px;
   font-size: .85em;
   font-style: italic;
 }
 
-#appointments .col-xs-1, #appointments .col-sm-1, #appointments .col-md-1, #appointments .col-lg-1, #appointments .col-xs-2, #appointments .col-sm-2, #appointments .col-md-2, #appointments .col-lg-2, #appointments .col-xs-3, #appointments .col-sm-3, #appointments .col-md-3, #appointments .col-lg-3, #appointments .col-xs-4, #appointments .col-sm-4, #appointments .col-md-4, #appointments .col-lg-4, #appointments .col-xs-5, #appointments .col-sm-5, #appointments .col-md-5, #appointments .col-lg-5, #appointments .col-xs-6, #appointments .col-sm-6, #appointments .col-md-6, #appointments .col-lg-6, #appointments .col-xs-7, #appointments .col-sm-7, #appointments .col-md-7, #appointments .col-lg-7, #appointments .col-xs-8, #appointments .col-sm-8, #appointments .col-md-8, #appointments .col-lg-8, #appointments .col-xs-9, #appointments .col-sm-9, #appointments .col-md-9, #appointments .col-lg-9, #appointments .col-xs-10, #appointments .col-sm-10, #appointments .col-md-10, #appointments .col-lg-10, #appointments .col-xs-11, #appointments .col-sm-11, #appointments .col-md-11, #appointments .col-lg-11, #appointments .col-xs-12, #appointments .col-sm-12, #appointments .col-md-12, #appointments .col-lg-12 {
+#ramblings .col-xs-1, #ramblings .col-sm-1, #ramblings .col-md-1, #ramblings .col-lg-1, #ramblings .col-xs-2, #ramblings .col-sm-2, #ramblings .col-md-2, #ramblings .col-lg-2, #ramblings .col-xs-3, #ramblings .col-sm-3, #ramblings .col-md-3, #ramblings .col-lg-3, #ramblings .col-xs-4, #ramblings .col-sm-4, #ramblings .col-md-4, #ramblings .col-lg-4, #ramblings .col-xs-5, #ramblings .col-sm-5, #ramblings .col-md-5, #ramblings .col-lg-5, #ramblings .col-xs-6, #ramblings .col-sm-6, #ramblings .col-md-6, #ramblings .col-lg-6, #ramblings .col-xs-7, #ramblings .col-sm-7, #ramblings .col-md-7, #ramblings .col-lg-7, #ramblings .col-xs-8, #ramblings .col-sm-8, #ramblings .col-md-8, #ramblings .col-lg-8, #ramblings .col-xs-9, #ramblings .col-sm-9, #ramblings .col-md-9, #ramblings .col-lg-9, #ramblings .col-xs-10, #ramblings .col-sm-10, #ramblings .col-md-10, #ramblings .col-lg-10, #ramblings .col-xs-11, #ramblings .col-sm-11, #ramblings .col-md-11, #ramblings .col-lg-11, #ramblings .col-xs-12, #ramblings .col-sm-12, #ramblings .col-md-12, #ramblings .col-lg-12 {
     padding-right: 5px;
     padding-left: 5px;
 }
